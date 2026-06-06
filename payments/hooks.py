@@ -2,9 +2,9 @@ from . import __version__ as app_version
 
 app_name = "payments"
 app_title = "Payments"
-app_publisher = "Frappe Technologies"
-app_description = "Payments app for frappe"
-app_email = "hello@frappe.io"
+app_publisher = "Biz Technology Solutions"
+app_description = "Payments app"
+app_email = "dev@ethiobiz.et"
 app_license = "MIT"
 
 # Includes in <head>

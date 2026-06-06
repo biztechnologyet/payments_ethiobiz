@@ -206,8 +206,8 @@ def before_install():
 
 @contextmanager
 def erpnext_app_import_guard():
-	marketplace_link = '<a href="https://frappecloud.com/marketplace/apps/erpnext">Marketplace</a>'
-	github_link = '<a href="https://github.com/frappe/erpnext">GitHub</a>'
+	marketplace_link = '<a href="https://github.com/BizTechnologyet/erpnext">Marketplace</a>'
+	github_link = '<a href="https://github.com/BizTechnologyet/erpnext">GitHub</a>'
 	msg = _("erpnext app is not installed. Please install it from {} or {}").format(
 		marketplace_link, github_link
 	)
